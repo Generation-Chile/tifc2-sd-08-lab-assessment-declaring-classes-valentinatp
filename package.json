@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "mock-stdin": "^1.0.0",
-    "prompt-sync": "^4.2.0"
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0",
+    "sd-08-1-classeslab-individual": "file:"
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
